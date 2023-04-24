@@ -1,0 +1,12 @@
+Fonksiyon: Motor
+
+Fonksiyon: Motor
+ false yapılıyor
+Fonksiyon: calistir
+
+Fonksiyon: durdur
+
+Fonksiyon: getMotorNo
+ motor no getir
+Fonksiyon: toString
+ durum belirlenmesi 

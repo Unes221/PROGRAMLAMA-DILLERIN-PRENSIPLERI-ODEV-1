@@ -1,0 +1,12 @@
+Fonksiyon: Motor
+
+Fonksiyon: Motor
+ Varolan bir motor no ile oluşturuluyor.
+Fonksiyon: calistir
+
+Fonksiyon: durdur
+
+Fonksiyon: getMotorNo
+
+Fonksiyon: toString
+
